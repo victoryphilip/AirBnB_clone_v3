@@ -158,5 +158,6 @@ No known bugs at this time.
 ## 🧑‍💻 Authors
 Original project: 
 - Philip Ruky Victory - [GitHub](https://github.com/victoryphilip)
+- Olayiwola Abidemi - [GitHub](https://github.com/bidexysammy)
 ## ⚖️ License
 Public Domain. No copy write protection.
